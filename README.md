@@ -44,10 +44,9 @@
 
 <h2 align="left">Framework</h2>
 
-##
-
 <div align="left">
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  /> </a>
+  <img width="12" />
 
 <h2 align="left">Tools</h2>
 
