@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Technology</h2>
 
 ###
 
