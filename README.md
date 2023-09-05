@@ -1,4 +1,7 @@
 <h2 align="center">Hello there 👋! My name is Riel</h2>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rieljasperapos/count.svg?"  />
+</div>
 
 ###
 
@@ -66,10 +69,6 @@
   <a href="https://www.linkedin.com/in/riel-jasper-apos-4202a124a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rieljasperapos/count.svg?"  />
 </div>
 
 ###
