@@ -1,7 +1,4 @@
 <h2 align="center">Hello there 👋! My name is Riel</h2>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rieljasperapos/count.svg?"  />
-</div>
 
 ###
 
@@ -11,11 +8,6 @@
   <img height="150" src="https://i.pinimg.com/originals/52/a0/94/52a0949db5a90b7da4f9bddcf66b2a0c.gif"  />
 </div>
 
-###
-
-
-
-###
 
 <br clear="both">
 
