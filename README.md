@@ -1,4 +1,8 @@
 <h2 align="center">Hello there 👋! My name is Riel</h2>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rieljasperapos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -65,8 +69,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rieljasperapos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
 
 ##
