@@ -11,13 +11,10 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rieljasperapos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 <br>
+<hr>
 
-<h3 align="center">Technology</h3>
+<h3 align="center"><strong>Technology</strong></h3>
 
 ###
 
@@ -37,15 +34,15 @@
 
 ###
 
-<h3 align="center">Framework</h3>
+<h3 align="center"><strong>Framework</strong></h3>
 
 <div align="center">
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  /> </a>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap logo"  /> </a>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react logo"  />
   <img width="12" />
 </div>
 
-<h3 align="center">Tools</h3>
+<h3 align="center"><strong>Tools</strong></h3>
 
 ###
 
@@ -59,9 +56,10 @@
 
 ###
 
-<h3 align="center">Socials</h3>
+<h3 align="center"><strong>Socials</strong></h3>
 
 ###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/riel-jasper-apos-4202a124a/" target="_blank">
@@ -70,6 +68,11 @@
 </div>
 
 ###
+
+<hr>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rieljasperapos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 
 
