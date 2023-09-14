@@ -8,10 +8,6 @@
   <img width="800" src="https://i.pinimg.com/originals/52/a0/94/52a0949db5a90b7da4f9bddcf66b2a0c.gif"  />
 </div>
 
-
-<br clear="both">
-
-<br>
 <hr>
 
 <h3 align="center"><strong>Technology</strong></h3>
